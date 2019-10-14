@@ -130,4 +130,4 @@ See xref:org-credentials-config-mule4.adoc[Configuring Organization Credentials 
 
 == See Also
 
-* xref:api-auto-discovery-new-concept.adoc[Reviewing API Gateway API Autodiscovery concepts]
+* xref:api-auto-discovry-new-concept.adoc[Reviewing API Gateway API Autodiscovery concepts]
